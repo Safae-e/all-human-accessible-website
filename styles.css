@@ -1,0 +1,78 @@
+.body-home {
+    background-image: url(../the-client-website/assets/house-mouse.svg);
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    top: 125px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
+    position: relative;
+    top: 120px;
+    font-size: 28px;
+    color: #FFFFFF;
+}
+
+p { 
+    text-align: center;
+    position: relative;
+    top: 115px;
+    font-size: 20px; 
+    color: #FFFFFF;
+}
+
+.body-menu {
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    background-color: black;
+}
+
+.Menu {
+    width: 150px;
+    height: 150px;
+}
+
+.muis {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 150px;
+}
+
+.kruis-knop {
+    width: 60px;
+    height: 60px;
+}
+
+.home-knop {
+    margin-top: 50px;
+}
+
+/* .lessons-knop {
+    grid-column: ;
+    grid-row: ;
+
+} */
+
+.testing-knop{
+    margin-top: 50px;
+}
+
+.profile-knop {
+    margin-top: 40px;
+}
+
+
+
