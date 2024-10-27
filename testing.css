@@ -5,7 +5,7 @@
 
 body{
     min-height: 100vh;
-    background-image: url(Tumi\ Mundo\ Huis.png);
+    background-color: #21599B;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -68,34 +68,6 @@ nav a{
 }
 
 img{
-    margin-left: 600px ;
+    margin-left: 600px;
     margin-bottom: 5px;
 }
-
-h1 {
-    margin-left: 555px;
-    margin-top: 0px;
-    font-size: 28px;
-    color: #FFFFFF;
-}
-
-h2 {
-    margin-left: 615px;
-    margin-top: 8px;
-    font-size: 28px;
-    color: #FFFFFF;
-}
-
-p {
-    margin-left: 550px;
-    margin-top: 8px;
-    font-size: 24px; 
-    color: #FFFFFF;
-}
-
-.Muis{
-    margin-left: 425px;
-    margin-top: 70px
-
-}
-
